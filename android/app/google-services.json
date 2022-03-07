@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "983951206104",
+    "project_id": "crmcash360",
+    "storage_bucket": "crmcash360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983951206104:android:3715b74a72ebe4448799ad",
+        "android_client_info": {
+          "package_name": "com.flutterflow.crmcash360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983951206104-s13mrb8hudom46i85gi0aaorl7h8vprt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.crmcash360",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "983951206104-13336e7d4ht70snbv4ilcqmt1r8pi6oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPqbUqmDN8kF7f_vUVIlxrmZKNnaEFfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983951206104-13336e7d4ht70snbv4ilcqmt1r8pi6oh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983951206104-ova91fk1a5aj72giue0v51g4vn4bt1u1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.crmcash360"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
